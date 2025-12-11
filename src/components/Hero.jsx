@@ -18,7 +18,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 container mx-auto px-4 flex flex-col md:flex-row items-center justify-between mt-16">
         {/* Left: Text */}
-        <div className="md:w-1/2 md:ml-20 text-center md:text-left mb-10 md:mb-0">
+        <div className="md:w-1/2 md:ml-10 text-center md:text-left mb-10 md:mb-0">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
             <span className="text-primary">Pasar</span>Ngalam
           </h1>
