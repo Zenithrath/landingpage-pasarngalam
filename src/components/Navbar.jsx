@@ -35,7 +35,9 @@ const Navbar = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <button className="bg-primary hover:bg-emerald-600 text-dark font-bold py-2 px-6 rounded-lg transition-all transform hover:scale-105">Mulai Sekarang</button>
+            <a href="https://pasarngalam-production.up.railway.app/" className="bg-primary hover:bg-emerald-600 text-dark font-bold py-2 px-6 rounded-lg transition-all transform hover:scale-105">
+              Mulai Sekarang
+            </a>
           </div>
 
           {/* Mobile Menu Button */}

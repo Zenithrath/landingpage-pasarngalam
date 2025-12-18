@@ -27,7 +27,9 @@ const Hero = () => {
             Dengan PasarNgalam, mitra bisa dengan mudah menjual produk, mengelola pesanan, dan menjangkau pelanggan baru, sementara konsumen bisa menemukan produk lokal favorit langsung dari browser mereka. Bergabunglah dan dukung ekonomi
             lokal sambil menikmati kemudahan belanja online dari kota Malang!
           </p>
-          <button className="bg-primary text-dark px-6 sm:px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition">Mulai Sekarang</button>
+          <a href="https://pasarngalam-production.up.railway.app/" className="bg-primary text-dark px-6 sm:px-8 py-3 rounded-lg font-semibold hover:opacity-90 transition">
+            Mulai Sekarang
+          </a>
         </div>
 
         {/* Right: App Image */}
